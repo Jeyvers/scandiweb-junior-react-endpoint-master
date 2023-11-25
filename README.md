@@ -1,4 +1,4 @@
-# GraphQL endpoint for Junior Developer position in Scandiweb
+# GraphQL endpoint for React Developer position in Scandiweb
 
 ### Overview
 
